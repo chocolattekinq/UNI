@@ -1,0 +1,9 @@
+h1 {
+text-align: center;
+text-decoration: underline dotted red;
+font-style: italic;
+font-size: 1.5em;
+}
+span {
+color: red;
+}

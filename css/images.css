@@ -1,0 +1,12 @@
+body {
+    background-repeat: no-repeat;
+    background-color: hsla(50, 33%, 25%, .75);
+    background-size: cover;
+}
+
+.github_img {
+    width: 700px;
+}
+
+/*img_style.style =  "background-color: grey"*/
+/*const img_style = document.querySelectorAll("img")[1]*/
